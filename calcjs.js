@@ -86,7 +86,7 @@
     }
   }
 
-  // Adds a decimal to the screen if there isn't already one in the last position
+  // Add a decimal to the screen if there isn't already one in the last position
   // or if the number currently being on doesn't have a decimal
   function decimal() {
     // If expression includes an arithematic, continue
