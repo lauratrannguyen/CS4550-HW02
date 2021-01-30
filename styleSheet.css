@@ -1,0 +1,25 @@
+#c {
+  color: red;
+}
+
+#r {
+  color: orange;
+}
+
+#a {
+  color: yellow;
+}
+
+#n {
+  color: green;
+}
+
+#e {
+  color: blue;
+}
+
+table, th, td {
+  width: 10%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
